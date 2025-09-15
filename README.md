@@ -16,3 +16,13 @@ This project is a full-stack web application that allows users to visually explo
 ⚙️ Backend REST APIs built with Node.js, Express, MongoDB.
 
 ☁️ Hosted frontend (optional: Netlify) & backend (optional: Render/Railway).
+
+🛠️ Tech Stack
+
+Layer	Technology
+
+Frontend	HTML, CSS, Vanilla JavaScript
+Algorithms	BFS, DFS, A* Search (written from scratch)
+Backend	Node.js, Express.js
+Database	MongoDB (via Mongoose ORM)
+Deployment	Netlify (frontend), Render / Railway (backend)
