@@ -17,6 +17,8 @@ This project is a full-stack web application that allows users to visually explo
 
 ☁️ Hosted frontend (optional: Netlify) & backend (optional: Render/Railway).
 
+
+
 🛠️ Tech Stack
 
 Layer	Technology
