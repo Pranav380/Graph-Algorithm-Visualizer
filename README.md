@@ -21,8 +21,17 @@ This project is a full-stack web application that allows users to visually explo
 
 Layer	Technology
 
-Frontend	HTML, CSS, Vanilla JavaScript
-Algorithms	BFS, DFS, A* Search (written from scratch)
-Backend	Node.js, Express.js
-Database	MongoDB (via Mongoose ORM)
-Deployment	Netlify (frontend), Render / Railway (backend)
+Frontend	
+HTML, CSS, Vanilla JavaScript
+
+Algorithms	
+BFS, DFS, A* Search (written from scratch)
+
+Backend	
+Node.js, Express.js
+
+Database	
+MongoDB (via Mongoose ORM)
+
+Deployment	
+Netlify (frontend), Render / Railway (backend)
