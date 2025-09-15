@@ -37,3 +37,8 @@ MongoDB (via Mongoose ORM)
 
 Deployment	
 Netlify (frontend), Render / Railway (backend)
+
+
+🖥️ Project Structure
+
+graph-visualizer-fullstack/ │ ├── backend/ (Node.js Backend) │ ├── controllers/ │ ├── models/ │ ├── routes/ │ ├── app.js │ ├── config.js │ └── .env │ ├── frontend/ (Frontend UI) │ ├── index.html │ ├── visualizer.html │ ├── about.html │ ├── contact.html │ ├── css/ │ └── js/ │ └── README.md
